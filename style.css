@@ -1,0 +1,90 @@
+h1{
+    color:rgb(249,74,61);
+    font-weight: bolder;
+    margin-left: 200px
+
+}
+header{
+    display: flex;
+    gap: 100px;
+}
+.topnav{
+    text-decoration: dotted;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+    color: rgb(255,254,249);
+    
+}
+button{
+    background-color: rgb(249,74,61);
+    height: 20px;
+    margin-left: 300px;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+}
+body{
+    background-color: rgb(255,253,238);
+}
+.navbar{
+    text-decoration: none;
+}
+h4{
+    border: 2px;
+    background-color:rgb(253,236,236);
+    color:black;
+    display: inline;
+     margin-left: 200px; 
+    margin-top: 400px;
+
+}
+p{
+    font-size: larger;
+    font-weight: bolder;
+    line-height: 20px;
+    text-indent: 20px;
+
+}
+.section-1{
+    margin-top: 50px;
+}
+h2{
+    margin-left: 200px;
+    margin-top: 200px;
+    font-size: 50px;
+    gap: 0;
+    line-height: 1.5px;
+}
+p{
+    text-indent: 100px;
+    margin-left: 100px;
+    color: rgb(105,105,123);
+    line-height: 1.5px;
+}
+ /* pre{
+    margin-left: 100px;
+    font-size: 15px; 
+} */
+.more{
+    font-size: 25px;
+    margin-top: 300px;
+    margin-left: 200px;
+    margin-bottom:0.5px ;    
+}
+ /* pre{
+    font-size: 80px;
+    color: rgb(33,34,68);
+    margin-left: 1px;
+    margin-top: 1px; 
+} */
+pre.food{
+    font-size: 20px;
+    margin-left: 150px;
+}
+pre.your{
+    color: rgb(33,34,68);
+    font-size: 50px;
+    margin-bottom: 0px;
+}
